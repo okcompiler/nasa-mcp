@@ -1,0 +1,16 @@
+# Gems
+/.bundle/
+/vendor/bundle/
+Gemfile.lock
+
+# Environment
+.env
+.env.*
+
+# Ruby
+*.gem
+*.rbc
+.ruby-version
+
+# OS
+.DS_Store
