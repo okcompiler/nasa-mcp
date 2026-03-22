@@ -5,8 +5,8 @@
 # NASA Space Explorer — MCP Server (Ruby)
 #
 # Tools:
-#   1. get_astronomy_picture  – Astronomy Picture of the Day
-#   2. get_asteroids           – Near-Earth asteroids in a date range
+#   1. get_astronomy_picture – Astronomy Picture of the Day
+#   2. get_asteroids         – Near-Earth asteroids in a date range
 #
 # Uses NASA's free DEMO_KEY by default.
 # Set the NASA_API_KEY env var for higher rate limits.
