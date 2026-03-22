@@ -24,7 +24,7 @@ export NASA_API_KEY="your-key-here"
 ## TypeScript Setup
 
 ```bash
-cd nasa-mcp-ts
+cd nasa-mcp-typescript
 npm install
 npm run build
 ```
@@ -48,7 +48,7 @@ node build/index.js
   "mcpServers": {
     "nasa": {
       "command": "node",
-      "args": ["/ABSOLUTE/PATH/TO/nasa-mcp-ts/build/index.js"],
+      "args": ["/ABSOLUTE/PATH/TO/nasa-mcp-typescript/build/index.js"],
       "env": {
         "NASA_API_KEY": "your-key-here"
       }
